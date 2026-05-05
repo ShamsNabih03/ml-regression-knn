@@ -69,7 +69,7 @@ The goal of this project is to explore fundamental machine learning techniques b
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ml-regression-knn.git
+git clone https://github.com/ShamsNabih03/ml-regression-knn.git
 ```
 
 2. Install dependencies:
